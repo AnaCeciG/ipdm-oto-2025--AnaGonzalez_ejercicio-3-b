@@ -1,4 +1,4 @@
-# 🎉 Tarjeta de Cumpleaños - Jetpack Compose
+# 🎉 Administrador de tareas - Jetpack Compose
 
 Este proyecto es parte del curso oficial de Android: **"Android Basics with Compose"**.  
 La app muestra un mensaje de verificacion, utilizando componentes de Jetpack Compose.
@@ -9,7 +9,7 @@ La app muestra un mensaje de verificacion, utilizando componentes de Jetpack Com
 
 La aplicación consiste en:
 
-- En una imgegn de check ubicado en el centro de la pantalla
+- En una imgen de check ubicado en el centro de la pantalla
 - Seguido de un texto de aprobacion de las tareas completadas
 
 Todo el diseño está hecho usando Jetpack Compose.
