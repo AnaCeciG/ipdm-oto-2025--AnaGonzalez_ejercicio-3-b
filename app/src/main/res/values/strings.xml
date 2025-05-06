@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VerficicacionCompletada</string>
+    <string name="Todas_Las_Verficaciones_Completadas">Todas las Tareas Completadas</string>
+    <string name="nice_work">Excelente Trabajo\n</string>
+</resources>
